@@ -27,7 +27,7 @@ https://youtu.be/vpAJ0s5S2t0?si=zyzt_3_6jWCAfif4
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/bootstrap-tutorial.git
+   git clone https://github.com/vaibhavee89/iCoder.git
    ```
 2. Open the project folder and launch `index.html` in your browser.
 3. No additional setup is required as Bootstrap is linked via CDN.
