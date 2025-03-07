@@ -1,6 +1,7 @@
 # iCoder - Bootstrap Hands-On Tutorial
 
 This repository contains a basic front-end project built using Bootstrap as a hands-on tutorial. The project follows Code With Harry YouTube tutorial to help understand the fundamentals of Bootstrap, including its grid system, components, and utilities.
+
 ![image](https://github.com/user-attachments/assets/32e054ab-1dce-408c-88e1-05c7a2822b4b)
 
 
